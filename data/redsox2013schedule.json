@@ -1,0 +1,1212 @@
+{
+  "title": "Red Sox Game Schedule",
+  "link": "http://istherearedsoxgametoday.com/",
+  "games": [
+  {
+  	"date": "02/21/2013",
+  	"time": "TBD",
+  	"opponent": "Boston College (exhibition)",
+  	"location": "JetBlue Park"
+  },
+  {
+  	"date": "02/21/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Exhibition: Northeastern (exhibition)",
+  	"location": "JetBlue Park"
+  },
+  {
+  	"date": "02/23/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Tampa Bay (Spring training)",
+  	"location": "JetBlue Park"
+  },
+  {
+  	"date": "02/24/2013",
+  	"time": "1:05 PM",
+  	"opponent": "St. Louis (Spring training)",
+  	"location": "Roger Dean Stadium"
+  },
+  {
+  	"date": "02/25/2013",
+  	"time": "1:05 PM",
+  	"opponent": "Tampa Bay (Spring training)",
+  	"location": "Charlotte Sports Park"
+  },
+  {
+  	"date": "02/25/2013",
+  	"time": "1:05 PM",
+  	"opponent": "Toronto (Spring training)",
+  	"location": "Florida Auto Exchange Stadium"
+  },
+  {
+  	"date": "02/26/2013",
+  	"time": "1:35 PM",
+  	"opponent": "St. Louis (Spring training)",
+  	"location": "JetBlue Park"
+  },
+  {
+  	"date": "02/27/2013",
+  	"time": "7:05 PM",
+  	"opponent": "Baltimore (Spring training)",
+  	"location": "Ed Smith Stadium"
+  },
+  {
+  	"date": "02/28/2013",
+  	"time": "1:05 PM",
+  	"opponent": "Pittsburgh (Spring training)",
+  	"location": "McKechnie Field"
+  },
+  {
+  	"date": "03/01/2013",
+  	"time": "7:05 PM",
+  	"opponent": "Pittsburgh (Spring training)",
+  	"location": "JetBlue Park"
+  },
+  {
+  	"date": "1:05 PM",
+  	"time": "Lee County Sports Complex",
+  	"opponent": "Minnesota,03/02/2013 (Spring training)",
+  	"location": "Hammond County Stadium"
+  },
+  {
+  	"date": "03/03/2013",
+  	"time": "1:35 PM",
+  	"opponent": "NY Yankees (Spring training)",
+  	"location": "JetBlue Park"
+  },
+  {
+  	"date": "03/04/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Tampa Bay (Spring training)",
+  	"location": "JetBlue Park"
+  },
+  {
+  	"date": "03/05/2013",
+  	"time": "7:05 PM",
+  	"opponent": "Exhibition: Puerto Rico",
+  	"location": "JetBlue Park"
+  },
+  {
+  	"date": "03/06/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Pittsburgh (Spring training)",
+  	"location": "JetBlue Park"
+  },
+  {
+  	"date": "1:05 PM",
+  	"time": "Lee County Sports Complex",
+  	"opponent": "Minnesota,03/07/2013 (Spring training)",
+  	"location": "Hammond County Stadium"
+  },
+  {
+  	"date": "03/08/2013",
+  	"time": "7:05 PM",
+  	"opponent": "Minnesota (Spring training)",
+  	"location": "JetBlue Park"
+  },
+  {
+  	"date": "03/09/2013",
+  	"time": "7:05 PM",
+  	"opponent": "Baltimore (Spring training)",
+  	"location": "JetBlue Park"
+  },
+  {
+  	"date": "03/10/2013",
+  	"time": "1:05 PM",
+  	"opponent": "Tampa Bay (Spring training)",
+  	"location": "Charlotte Sports Park"
+  },
+  {
+  	"date": "03/11/2013",
+  	"time": "1:05 PM",
+  	"opponent": "Miami (Spring training)",
+  	"location": "Roger Dean Stadium"
+  },
+  {
+  	"date": "03/12/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Toronto (Spring training)",
+  	"location": "JetBlue Park"
+  },
+  {
+  	"date": "1:05 PM",
+  	"time": "Lee County Sports Complex",
+  	"opponent": "Minnesota,03/14/2013 (Spring training)",
+  	"location": "Hammond County Stadium"
+  },
+  {
+  	"date": "03/15/2013",
+  	"time": "1:05 PM",
+  	"opponent": "Baltimore (Spring training)",
+  	"location": "Ed Smith Stadium"
+  },
+  {
+  	"date": "03/15/2013",
+  	"time": "7:05 PM",
+  	"opponent": "Minnesota (Spring training)",
+  	"location": "JetBlue Park"
+  },
+  {
+  	"date": "03/16/2013",
+  	"time": "1:05 PM",
+  	"opponent": "Tampa Bay (Spring training)",
+  	"location": "Charlotte Sports Park"
+  },
+  {
+  	"date": "03/17/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Tampa Bay (Spring training)",
+  	"location": "JetBlue Park"
+  },
+  {
+  	"date": "03/18/2013",
+  	"time": "1:05 PM",
+  	"opponent": "Pittsburgh (Spring training)",
+  	"location": "McKechnie Field"
+  },
+  {
+  	"date": "03/19/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Baltimore (Spring training)",
+  	"location": "JetBlue Park"
+  },
+  {
+  	"date": "03/20/2013",
+  	"time": "1:05 PM",
+  	"opponent": "NY Yankees (Spring training)",
+  	"location": "George M. Steinbrenner Field"
+  },
+  {
+  	"date": "03/21/2013",
+  	"time": "7:05 PM",
+  	"opponent": "Philadelphia (Spring training)",
+  	"location": "JetBlue Park"
+  },
+  {
+  	"date": "03/22/2013",
+  	"time": "1:05 PM",
+  	"opponent": "Toronto (Spring training)",
+  	"location": "Florida Auto Exchange Stadium"
+  },
+  {
+  	"date": "03/23/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Pittsburgh (Spring training)",
+  	"location": "JetBlue Park"
+  },
+  {
+  	"date": "03/24/2013",
+  	"time": "1:05 PM",
+  	"opponent": "Philadelphia (Spring training)",
+  	"location": "Bright House Field"
+  },
+  {
+  	"date": "03/25/2013",
+  	"time": "1:05 PM",
+  	"opponent": "Baltimore (Spring training)",
+  	"location": "Ed Smith Stadium"
+  },
+  {
+  	"date": "03/27/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Miami (Spring training)",
+  	"location": "JetBlue Park"
+  },
+  {
+  	"date": "03/28/2013",
+  	"time": "7:05 PM",
+  	"opponent": "Minnesota (Spring training)",
+  	"location": "JetBlue Park"
+  },
+  {
+  	"date": "1:05 PM",
+  	"time": "Lee County Sports Complex",
+  	"opponent": "Minnesota,03/29/2013 (Spring training)",
+  	"location": "Hammond County Stadium"
+  },
+  {
+  	"date": "03/30/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Minnesota (Spring training)",
+  	"location": "JetBlue Park"
+  },
+  {
+  	"date": "04/01/2013",
+  	"time": "1:05 PM",
+  	"opponent": "NY Yankees",
+  	"location": "Yankee Stadium"
+  },
+  {
+  	"date": "04/03/2013",
+  	"time": "7:05 PM",
+  	"opponent": "NY Yankees",
+  	"location": "Yankee Stadium"
+  },
+  {
+  	"date": "04/04/2013",
+  	"time": "7:05 PM",
+  	"opponent": "NY Yankees",
+  	"location": "Yankee Stadium"
+  },
+  {
+  	"date": "04/05/2013",
+  	"time": "7:07 PM",
+  	"opponent": "Toronto",
+  	"location": "Rogers Centre"
+  },
+  {
+  	"date": "04/06/2013",
+  	"time": "1:07 PM",
+  	"opponent": "Toronto",
+  	"location": "Rogers Centre"
+  },
+  {
+  	"date": "04/07/2013",
+  	"time": "1:07 PM",
+  	"opponent": "Toronto",
+  	"location": "Rogers Centre"
+  },
+  {
+  	"date": "04/08/2013",
+  	"time": "2:05 PM",
+  	"opponent": "Baltimore",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "04/10/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Baltimore",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "04/11/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Baltimore",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "04/12/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Tampa Bay",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "04/13/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Tampa Bay",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "04/14/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Tampa Bay",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "04/15/2013",
+  	"time": "11:05 AM",
+  	"opponent": "Tampa Bay",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "04/16/2013",
+  	"time": "03:33 AM",
+  	"opponent": "Cleveland",
+  	"location": "Progressive Field"
+  },
+  {
+  	"date": "04/17/2013",
+  	"time": "03:33 AM",
+  	"opponent": "Cleveland",
+  	"location": "Progressive Field"
+  },
+  {
+  	"date": "04/18/2013",
+  	"time": "03:33 AM",
+  	"opponent": "Cleveland",
+  	"location": "Progressive Field"
+  },
+  {
+  	"date": "04/19/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Kansas City",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "04/20/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Kansas City",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "04/21/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Kansas City",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "04/22/2013",
+  	"time": "6:30 PM",
+  	"opponent": "Oakland",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "04/23/2013",
+  	"time": "6:30 PM",
+  	"opponent": "Oakland",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "04/24/2013",
+  	"time": "4:05 PM",
+  	"opponent": "Oakland",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "04/25/2013",
+  	"time": "6:30 PM",
+  	"opponent": "Houston",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "04/26/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Houston",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "04/27/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Houston",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "04/28/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Houston",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "04/30/2013",
+  	"time": "7:07 PM",
+  	"opponent": "Toronto",
+  	"location": "Rogers Centre"
+  },
+  {
+  	"date": "05/01/2013",
+  	"time": "7:07 PM",
+  	"opponent": "Toronto",
+  	"location": "Rogers Centre"
+  },
+  {
+  	"date": "05/02/2013",
+  	"time": "7:07 PM",
+  	"opponent": "Toronto",
+  	"location": "Rogers Centre"
+  },
+  {
+  	"date": "05/03/2013",
+  	"time": "03:33 AM",
+  	"opponent": "Texas",
+  	"location": "Rangers Ballpark in Arlington"
+  },
+  {
+  	"date": "05/04/2013",
+  	"time": "03:33 AM",
+  	"opponent": "Texas",
+  	"location": "Rangers Ballpark in Arlington"
+  },
+  {
+  	"date": "05/05/2013",
+  	"time": "03:33 AM",
+  	"opponent": "Texas",
+  	"location": "Rangers Ballpark in Arlington"
+  },
+  {
+  	"date": "05/06/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Minnesota",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "05/07/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Minnesota",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "05/08/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Minnesota",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "05/09/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Minnesota",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "05/10/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Toronto",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "05/11/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Toronto",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "05/12/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Toronto",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "05/14/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Tampa Bay",
+  	"location": "Tropicana Field"
+  },
+  {
+  	"date": "05/15/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Tampa Bay",
+  	"location": "Tropicana Field"
+  },
+  {
+  	"date": "05/16/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Tampa Bay",
+  	"location": "Tropicana Field"
+  },
+  {
+  	"date": "05/17/2013",
+  	"time": "8:10 PM",
+  	"opponent": "Minnesota",
+  	"location": "Target Field"
+  },
+  {
+  	"date": "05/18/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Minnesota",
+  	"location": "Target Field"
+  },
+  {
+  	"date": "05/19/2013",
+  	"time": "2:10 PM",
+  	"opponent": "Minnesota",
+  	"location": "Target Field"
+  },
+  {
+  	"date": "05/20/2013",
+  	"time": "03:33 AM",
+  	"opponent": "Chi White Sox",
+  	"location": "U.S. Cellular Field"
+  },
+  {
+  	"date": "05/21/2013",
+  	"time": "03:33 AM",
+  	"opponent": "Chi White Sox",
+  	"location": "U.S. Cellular Field"
+  },
+  {
+  	"date": "05/22/2013",
+  	"time": "03:33 AM",
+  	"opponent": "Chi White Sox",
+  	"location": "U.S. Cellular Field"
+  },
+  {
+  	"date": "05/23/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Cleveland",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "05/24/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Cleveland",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "05/25/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Cleveland",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "05/26/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Cleveland",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "05/27/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Philadelphia",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "05/28/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Philadelphia",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "05/29/2013",
+  	"time": "7:05 PM",
+  	"opponent": "Philadelphia",
+  	"location": "Citizens Bank Park"
+  },
+  {
+  	"date": "05/30/2013",
+  	"time": "7:05 PM",
+  	"opponent": "Philadelphia",
+  	"location": "Citizens Bank Park"
+  },
+  {
+  	"date": "05/31/2013",
+  	"time": "7:05 PM",
+  	"opponent": "NY Yankees",
+  	"location": "Yankee Stadium"
+  },
+  {
+  	"date": "06/01/2013",
+  	"time": "7:15 PM",
+  	"opponent": "NY Yankees",
+  	"location": "Yankee Stadium"
+  },
+  {
+  	"date": "06/02/2013",
+  	"time": "03:33 AM",
+  	"opponent": "NY Yankees",
+  	"location": "Yankee Stadium"
+  },
+  {
+  	"date": "06/04/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Texas",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "06/05/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Texas",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "06/06/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Texas",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "06/07/2013",
+  	"time": "7:10 PM",
+  	"opponent": "LA Angels",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "06/08/2013",
+  	"time": "03:33 AM",
+  	"opponent": "LA Angels",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "06/09/2013",
+  	"time": "03:33 AM",
+  	"opponent": "LA Angels",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "06/10/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Tampa Bay",
+  	"location": "Tropicana Field"
+  },
+  {
+  	"date": "06/11/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Tampa Bay",
+  	"location": "Tropicana Field"
+  },
+  {
+  	"date": "06/12/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Tampa Bay",
+  	"location": "Tropicana Field"
+  },
+  {
+  	"date": "06/13/2013",
+  	"time": "7:05 PM",
+  	"opponent": "Baltimore",
+  	"location": "Oriole Park at Camden Yards"
+  },
+  {
+  	"date": "06/14/2013",
+  	"time": "7:05 PM",
+  	"opponent": "Baltimore",
+  	"location": "Oriole Park at Camden Yards"
+  },
+  {
+  	"date": "06/15/2013",
+  	"time": "7:05 PM",
+  	"opponent": "Baltimore",
+  	"location": "Oriole Park at Camden Yards"
+  },
+  {
+  	"date": "06/16/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Baltimore",
+  	"location": "Oriole Park at Camden Yards"
+  },
+  {
+  	"date": "06/18/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Tampa Bay",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "06/19/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Tampa Bay",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "06/20/2013",
+  	"time": "7:05 PM",
+  	"opponent": "Detroit",
+  	"location": "Comerica Park"
+  },
+  {
+  	"date": "06/21/2013",
+  	"time": "7:05 PM",
+  	"opponent": "Detroit",
+  	"location": "Comerica Park"
+  },
+  {
+  	"date": "06/22/2013",
+  	"time": "7:05 PM",
+  	"opponent": "Detroit",
+  	"location": "Comerica Park"
+  },
+  {
+  	"date": "06/23/2013",
+  	"time": "1:05 PM",
+  	"opponent": "Detroit",
+  	"location": "Comerica Park"
+  },
+  {
+  	"date": "06/25/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Colorado",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "06/26/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Colorado",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "06/27/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Toronto",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "06/28/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Toronto",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "06/29/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Toronto",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "06/30/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Toronto",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "07/02/2013",
+  	"time": "7:10 PM",
+  	"opponent": "San Diego",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "07/03/2013",
+  	"time": "7:10 PM",
+  	"opponent": "San Diego",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "07/04/2013",
+  	"time": "1:35 PM",
+  	"opponent": "San Diego",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "07/05/2013",
+  	"time": "10:05 PM",
+  	"opponent": "LA Angels",
+  	"location": "Angel Stadium of Anaheim"
+  },
+  {
+  	"date": "07/06/2013",
+  	"time": "9:05 PM",
+  	"opponent": "LA Angels",
+  	"location": "Angel Stadium of Anaheim"
+  },
+  {
+  	"date": "07/07/2013",
+  	"time": "3:35 PM",
+  	"opponent": "LA Angels",
+  	"location": "Angel Stadium of Anaheim"
+  },
+  {
+  	"date": "07/08/2013",
+  	"time": "10:10 PM",
+  	"opponent": "Seattle",
+  	"location": "Safeco Field"
+  },
+  {
+  	"date": "07/09/2013",
+  	"time": "10:10 PM",
+  	"opponent": "Seattle",
+  	"location": "Safeco Field"
+  },
+  {
+  	"date": "07/10/2013",
+  	"time": "10:10 PM",
+  	"opponent": "Seattle",
+  	"location": "Safeco Field"
+  },
+  {
+  	"date": "07/11/2013",
+  	"time": "10:10 PM",
+  	"opponent": "Seattle",
+  	"location": "Safeco Field"
+  },
+  {
+  	"date": "07/12/2013",
+  	"time": "10:05 PM",
+  	"opponent": "Oakland",
+  	"location": "O.co Coliseum"
+  },
+  {
+  	"date": "07/13/2013",
+  	"time": "10:05 PM",
+  	"opponent": "Oakland",
+  	"location": "O.co Coliseum"
+  },
+  {
+  	"date": "07/14/2013",
+  	"time": "4:05 PM",
+  	"opponent": "Oakland",
+  	"location": "O.co Coliseum"
+  },
+  {
+  	"date": "07/16/2013",
+  	"time": "03:33 AM",
+  	"opponent": "All-Star: AL All-Stars at NL All-Stars",
+  	"location": "Citi Field"
+  },
+  {
+  	"date": "07/19/2013",
+  	"time": "7:10 PM",
+  	"opponent": "NY Yankees",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "07/20/2013",
+  	"time": "03:33 AM",
+  	"opponent": "NY Yankees",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "07/21/2013",
+  	"time": "03:33 AM",
+  	"opponent": "NY Yankees",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "07/22/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Tampa Bay",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "07/23/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Tampa Bay",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "07/24/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Tampa Bay",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "07/25/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Tampa Bay",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "07/26/2013",
+  	"time": "7:05 PM",
+  	"opponent": "Baltimore",
+  	"location": "Oriole Park at Camden Yards"
+  },
+  {
+  	"date": "07/27/2013",
+  	"time": "7:05 PM",
+  	"opponent": "Baltimore",
+  	"location": "Oriole Park at Camden Yards"
+  },
+  {
+  	"date": "07/28/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Baltimore",
+  	"location": "Oriole Park at Camden Yards"
+  },
+  {
+  	"date": "07/30/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Seattle",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "07/31/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Seattle",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "08/01/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Seattle",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "08/02/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Arizona",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "08/03/2013",
+  	"time": "03:33 AM",
+  	"opponent": "Arizona",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "08/04/2013",
+  	"time": "03:33 AM",
+  	"opponent": "Arizona",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "08/05/2013",
+  	"time": "03:33 AM",
+  	"opponent": "Houston",
+  	"location": "Minute Maid Park"
+  },
+  {
+  	"date": "08/06/2013",
+  	"time": "03:33 AM",
+  	"opponent": "Houston",
+  	"location": "Minute Maid Park"
+  },
+  {
+  	"date": "08/07/2013",
+  	"time": "03:33 AM",
+  	"opponent": "Houston",
+  	"location": "Minute Maid Park"
+  },
+  {
+  	"date": "08/08/2013",
+  	"time": "03:33 AM",
+  	"opponent": "Kansas City",
+  	"location": "Kauffman Stadium"
+  },
+  {
+  	"date": "08/09/2013",
+  	"time": "03:33 AM",
+  	"opponent": "Kansas City",
+  	"location": "Kauffman Stadium"
+  },
+  {
+  	"date": "08/10/2013",
+  	"time": "03:33 AM",
+  	"opponent": "Kansas City",
+  	"location": "Kauffman Stadium"
+  },
+  {
+  	"date": "08/11/2013",
+  	"time": "03:33 AM",
+  	"opponent": "Kansas City",
+  	"location": "Kauffman Stadium"
+  },
+  {
+  	"date": "08/13/2013",
+  	"time": "7:07 PM",
+  	"opponent": "Toronto",
+  	"location": "Rogers Centre"
+  },
+  {
+  	"date": "08/14/2013",
+  	"time": "7:07 PM",
+  	"opponent": "Toronto",
+  	"location": "Rogers Centre"
+  },
+  {
+  	"date": "08/15/2013",
+  	"time": "7:07 PM",
+  	"opponent": "Toronto",
+  	"location": "Rogers Centre"
+  },
+  {
+  	"date": "08/16/2013",
+  	"time": "7:10 PM",
+  	"opponent": "NY Yankees",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "08/17/2013",
+  	"time": "03:33 AM",
+  	"opponent": "NY Yankees",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "08/18/2013",
+  	"time": "03:33 AM",
+  	"opponent": "NY Yankees",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "08/19/2013",
+  	"time": "10:15 PM",
+  	"opponent": "San Francisco",
+  	"location": "AT&T Park"
+  },
+  {
+  	"date": "08/20/2013",
+  	"time": "10:15 PM",
+  	"opponent": "San Francisco",
+  	"location": "AT&T Park"
+  },
+  {
+  	"date": "08/21/2013",
+  	"time": "3:45 PM",
+  	"opponent": "San Francisco",
+  	"location": "AT&T Park"
+  },
+  {
+  	"date": "08/23/2013",
+  	"time": "03:33 AM",
+  	"opponent": "LA Dodgers",
+  	"location": "Dodger Stadium"
+  },
+  {
+  	"date": "08/24/2013",
+  	"time": "03:33 AM",
+  	"opponent": "LA Dodgers",
+  	"location": "Dodger Stadium"
+  },
+  {
+  	"date": "08/25/2013",
+  	"time": "03:33 AM",
+  	"opponent": "LA Dodgers",
+  	"location": "Dodger Stadium"
+  },
+  {
+  	"date": "08/27/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Baltimore",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "08/28/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Baltimore",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "08/29/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Baltimore",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "08/30/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Chi White Sox",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "08/31/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Chi White Sox",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "09/01/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Chi White Sox",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "09/02/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Detroit",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "09/03/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Detroit",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "09/04/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Detroit",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "09/05/2013",
+  	"time": "7:05 PM",
+  	"opponent": "NY Yankees",
+  	"location": "Yankee Stadium"
+  },
+  {
+  	"date": "09/06/2013",
+  	"time": "7:05 PM",
+  	"opponent": "NY Yankees",
+  	"location": "Yankee Stadium"
+  },
+  {
+  	"date": "09/07/2013",
+  	"time": "1:05 PM",
+  	"opponent": "NY Yankees",
+  	"location": "Yankee Stadium"
+  },
+  {
+  	"date": "09/08/2013",
+  	"time": "03:33 AM",
+  	"opponent": "NY Yankees",
+  	"location": "Yankee Stadium"
+  },
+  {
+  	"date": "09/10/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Tampa Bay",
+  	"location": "Tropicana Field"
+  },
+  {
+  	"date": "09/11/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Tampa Bay",
+  	"location": "Tropicana Field"
+  },
+  {
+  	"date": "09/12/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Tampa Bay",
+  	"location": "Tropicana Field"
+  },
+  {
+  	"date": "09/13/2013",
+  	"time": "7:10 PM",
+  	"opponent": "NY Yankees",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "09/14/2013",
+  	"time": "03:33 AM",
+  	"opponent": "NY Yankees",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "09/15/2013",
+  	"time": "03:33 AM",
+  	"opponent": "NY Yankees",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "09/17/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Baltimore",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "09/18/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Baltimore",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "09/19/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Baltimore",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "09/20/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Toronto",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "09/21/2013",
+  	"time": "7:10 PM",
+  	"opponent": "Toronto",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "09/22/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Toronto",
+  	"location": "Fenway Park"
+  },
+  {
+  	"date": "09/24/2013",
+  	"time": "8:40 PM",
+  	"opponent": "Colorado",
+  	"location": "Coors Field"
+  },
+  {
+  	"date": "09/25/2013",
+  	"time": "8:40 PM",
+  	"opponent": "Colorado",
+  	"location": "Coors Field"
+  },
+  {
+  	"date": "09/27/2013",
+  	"time": "7:05 PM",
+  	"opponent": "Baltimore",
+  	"location": "Oriole Park at Camden Yards"
+  },
+  {
+  	"date": "09/28/2013",
+  	"time": "7:05 PM",
+  	"opponent": "Baltimore",
+  	"location": "Oriole Park at Camden Yards"
+  },
+  {
+  	"date": "09/29/2013",
+  	"time": "1:35 PM",
+  	"opponent": "Baltimore",
+  	"location": "Oriole Park at Camden Yards"
+  }
+]
+}
