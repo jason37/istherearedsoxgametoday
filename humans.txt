@@ -1,0 +1,20 @@
+/* TEAM */
+  Developer: Jason Chapin
+  Contact: jason [at] lab1337.com
+  From: Marlborough, MA, US
+
+/* THANKS */
+  Is there a Giants game today?
+  Site: http://isthereagiantsgametoday.com/
+
+  MLB Red Sox Schedule
+  Site: http://boston.redsox.mlb.com/schedule/downloadable.jsp?c_id=bos
+
+  CSV To JSON Converter
+  Site: http://www.convertcsv.com/csv-to-json.htm
+
+/* SITE */
+  Last update: 2014/01/16
+  Language: English
+  Doctype: HTML5
+  IDE: Netbeans
