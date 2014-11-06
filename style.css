@@ -2,9 +2,10 @@ body {
     color: #006;
     margin: auto; 
     font-family: Helvetica, Arial, sans-serif;
-    line-height:1.3; 
+    font-size: 17px;
+    line-height: 1.2; 
     text-align:center; 
-    width:60%; 
+    width: 70%; 
     margin:0 auto;
 }
 #isthere { 
@@ -67,6 +68,13 @@ a#counter:hover {
 @media (max-width: 500px) {
  #isthere { 
     margin-top: 5%; 
-    font-size: 2em; 
+    font-size: 1.5em; 
   } 
+  .fill-in { 
+    font-family: BosoxRegular, serif; 
+    font-size: 12em; 
+  }
+  #yesno {
+    margin: 1em 0;
+  }
 }
