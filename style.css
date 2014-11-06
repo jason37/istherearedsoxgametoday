@@ -9,7 +9,7 @@ body {
 }
 #isthere { 
     margin-top: 5%; 
-    font-size: 50px; 
+    font-size: 5em; 
 }
 #yesno { 
     border-top:1px solid #D2612F;
@@ -62,4 +62,11 @@ a#counter:hover {
 .fill-in { 
     font-family: BosoxRegular, serif; 
     font-size: 15em; 
+}
+
+@media (max-width: 500px) {
+ #isthere { 
+    margin-top: 5%; 
+    font-size: 2em; 
+  } 
 }
