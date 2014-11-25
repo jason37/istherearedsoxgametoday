@@ -1,42 +1,46 @@
 <!DOCTYPE HTML>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta name=viewport content="width=device-width, initial-scale=1">
-        <link rel="shortcut icon" href="/favicon.png">
-        <link rel="stylesheet" href="style.css">
-        <title>Is there a Red Sox game today?</title>
-        
-    </head>
-    <body>
-            <h1 id="isthere">Is there a Red Sox game today?</h1>
-            <div id="yesno">
-                <span class="fill-in">&#133;</span>
-                <br>
-                <span class="homeaway"></span>
-            </div>
-            
-            <div id="game" class="h-event vevent" style="display: none">
-                <span class="p-summary summary">Red Sox play the 
-                      <span class="opponent"></span>
-                </span>
-                <span class="day"></span>
-                <span class="dt-start dtstart">
-                    <abbr class="value" style="display: none"></abbr>
-                        <span class="tstart value"></span>
-                        at <span class="p-location location"></span>
-                </span>
-                <span class="dt-end dtend">
-                    <span class="tend value"></span>
-                </span>
-            </div>
+  <head>
+    <meta charset="utf-8">
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="/favicon.png">
+    <link rel="stylesheet" href="style.css">
+    <title>Is there a Red Sox game today?</title>
 
-            <div id="datecheck"></div>
-            <div id="footer"><!--<a href="about.html">about</a>--></div>
+  </head>
+    <body>
+      <h1 id="isthere">Is there a Red Sox game today?</h1>
+      <div id="yesno">
+        <span class="fill-in">&#133;</span>
+        <br>
+        <span class="homeaway"></span>
+      </div>
+
+      <div id="game" class="h-event vevent" style="display: none">
+        <span class="p-summary summary">Red Sox play the 
+              <span class="opponent"></span>
+        </span>
+        <span class="day"></span>
+        <span class="dt-start dtstart">
+            <abbr class="value" style="display: none"></abbr>
+                <span class="tstart value"></span>
+                at <span class="p-location location"></span>
+        </span>
+        <span class="dt-end dtend">
+            <span class="tend value"></span>
+        </span>
+      </div>
+
+      <div id="nextgame">
+        
+      </div>
+      
+      <div id="datecheck"></div>
+      <div id="footer"><!--<a href="about.html">about</a>--></div>
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>        
     <script src="/js/itarsgt.js"></script>
     <script async src="/js/analytics.js"></script>
-          
+
   </body>
 </html>

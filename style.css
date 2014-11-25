@@ -65,6 +65,11 @@ a#counter:hover {
     font-size: 15em; 
 }
 
+#datecheck {  
+  font-style: italic;
+  padding-top: 2em;
+}
+
 @media (max-width: 500px) {
  #isthere { 
     margin-top: 5%; 

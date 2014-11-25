@@ -11,7 +11,7 @@ function ISODateString(d){
 }  
 
 $(document).ready(function(){
-    var url='data/redsox2012schedule.json';
+    var url='data/redsox2015schedule.json';
 
     var today = new Date();
     var nextGame = null;
@@ -25,10 +25,11 @@ $(document).ready(function(){
     var dateString = curr_month + "/" + curr_date + "/" + curr_year;
 
     // Create datepicker
-    // $("#datecheck").html('Checking <input id="datepicker" type="text">');
+    //$("#datecheck").html('Checking <input id="datepicker" type="text">');
 // $( "#datepicker" ).datepicker();
-
     // $(".datepicker").datepicker.("setDate", dateString);
+
+    $("#datecheck").html("Asked on " + dateString);
 
     // Check for game today
     $.getJSON(url,function(json){
@@ -52,7 +53,7 @@ $(document).ready(function(){
 
         if (todaysGame) {
             $(".fill-in").text("YES");
-            $("#game .summary").text("Red Sox play the " + todaysGame.opponent);
+            $("#game .summary").text(todaysGame.opponent);
             $("#game .location").text(todaysGame.location);
             $("#game .tstart").text(todaysGame.time);
 
@@ -67,13 +68,13 @@ $(document).ready(function(){
                 $("#yesno").css("border-color", "#000");
              }
             $("#game").show();
-        }
-        else {
+        } else {
+          var nextGameDate = new Date(nextGame.date);
           $(".fill-in").text("NO");
           $("#game .date").text(nextGame.date);
-          $("#game .summary").text("Red Sox will play the " + nextGame.opponent);
+          $("#game .summary").html("Next game " + (nextGameDate.getMonth()+1) + "/" + nextGameDate.getDate() +"/" + nextGameDate.getFullYear() + "<br>" + nextGame.opponent);
           $("#game .location").text(nextGame.location);
-          var nextGameDate = new Date(nextGame.date);
+          
           // Formate next game date as day of the week
           var weekday = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"];
           var nextGameDay = weekday[nextGameDate.getDay()];
@@ -81,6 +82,8 @@ $(document).ready(function(){
           $("#game .tstart").text(nextGame.time);
           $("#game").show();
         }
+        
+        
     });
 
 });    
