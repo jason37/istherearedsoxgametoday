@@ -82,4 +82,7 @@ a#counter:hover {
   #yesno {
     margin: 1em 0;
   }
+  #game {
+    font-size: 1.2em;
+  }
 }
