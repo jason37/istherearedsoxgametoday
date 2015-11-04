@@ -34,7 +34,7 @@ $(document).ready(function(){
             nextGameDate = new Date(game.date);
 
             // Uncomment for debugging
-            console.log("Today: " + today + " - Looking at game: " + nextGameDate);
+            //console.log("Today: " + today + " - Looking at game: " + nextGameDate);
 
           if (!nextGame && isDateLaterThan(nextGameDate, today))
             nextGame = game;
@@ -79,6 +79,8 @@ $(document).ready(function(){
         }
 
 
+    }).fail( function(d, textStatus, error) {
+        console.error("getJSON failed, status: " + textStatus + ", error: "+error);
     });
 
 });
