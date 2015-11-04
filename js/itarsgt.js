@@ -1,17 +1,17 @@
 function isDateLaterThan(a, b) {
   return a > b;
 }
-        
+
 /* from https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Date */
-function ISODateString(d){  
-    function pad(n){return n<10 ? '0'+n : n}  
-    return d.getUTCFullYear()+'-'  
-        + pad(d.getUTCMonth()+1)+'-'  
+function ISODateString(d){
+    function pad(n){return n<10 ? '0'+n : n}
+    return d.getUTCFullYear()+'-'
+        + pad(d.getUTCMonth()+1)+'-'
         + pad(d.getUTCDate());
-}  
+}
 
 $(document).ready(function(){
-    var url='data/redsox2015schedule.json';
+    var url='/data/redsox2016schedule.json';
 
     var today = new Date();
     var nextGame = null;
@@ -24,11 +24,6 @@ $(document).ready(function(){
     var curr_year = today.getFullYear();
     var dateString = curr_month + "/" + curr_date + "/" + curr_year;
 
-    // Create datepicker
-    //$("#datecheck").html('Checking <input id="datepicker" type="text">');
-// $( "#datepicker" ).datepicker();
-    // $(".datepicker").datepicker.("setDate", dateString);
-
     $("#datecheck").html("Asked on " + dateString);
 
     // Check for game today
@@ -38,14 +33,14 @@ $(document).ready(function(){
         $.each(json.games,function(i,game){
             nextGameDate = new Date(game.date);
 
-            // Uncomment for debugging 
-            //console.log("Today: " + today + " - Looking at game: " + nextGameDate);
+            // Uncomment for debugging
+            console.log("Today: " + today + " - Looking at game: " + nextGameDate);
 
           if (!nextGame && isDateLaterThan(nextGameDate, today))
             nextGame = game;
 
-            if(today.getYear() == nextGameDate.getYear() 
-                && today.getMonth() == nextGameDate.getMonth() 
+            if(today.getYear() == nextGameDate.getYear()
+                && today.getMonth() == nextGameDate.getMonth()
                 && today.getDate() == nextGameDate.getDate()) {
               todaysGame = game;
             }
@@ -74,7 +69,7 @@ $(document).ready(function(){
           $("#game .date").text(nextGame.date);
           $("#game .summary").html("Next game " + (nextGameDate.getMonth()+1) + "/" + nextGameDate.getDate() +"/" + nextGameDate.getFullYear() + "<br>" + nextGame.opponent);
           $("#game .location").text(nextGame.location);
-          
+
           // Formate next game date as day of the week
           var weekday = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"];
           var nextGameDay = weekday[nextGameDate.getDay()];
@@ -82,9 +77,8 @@ $(document).ready(function(){
           $("#game .tstart").text(nextGame.time);
           $("#game").show();
         }
-        
-        
+
+
     });
 
-});    
-        
+});
