@@ -1,5 +1,5 @@
 function isDateLaterThan(a, b) {
-  return a > b;
+  return a > b;  
 }
 
 /* from https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Date */
@@ -33,17 +33,17 @@ $(document).ready(function(){
         $.each(json.games,function(i,game){
             nextGameDate = new Date(game.date);
 
-            // Uncomment for debugging
-            //console.log("Today: " + today + " - Looking at game: " + nextGameDate);
-
-          if (!nextGame && isDateLaterThan(nextGameDate, today))
-            nextGame = game;
-
-            if(today.getYear() == nextGameDate.getYear()
-                && today.getMonth() == nextGameDate.getMonth()
-                && today.getDate() == nextGameDate.getDate()) {
-              todaysGame = game;
-            }
+          // Uncomment for debugging
+          //console.log("Today: " + today + " - Looking at next game: " + nextGameDate);          
+          
+          if (nextGame === null && isDateLaterThan(nextGameDate, today)) {
+            nextGame = game;            
+          }
+          if(today.getYear() == nextGameDate.getYear()
+              && today.getMonth() == nextGameDate.getMonth()
+              && today.getDate() == nextGameDate.getDate()) {
+            todaysGame = game;
+          }
         });
 
         if (todaysGame) {
@@ -63,7 +63,7 @@ $(document).ready(function(){
                 $("#yesno").css("border-color", "#000");
              }
             $("#game").show();
-        } else {
+        } else if (nextGame !== null) {
           var nextGameDate = new Date(nextGame.date);
           $(".fill-in").text("NO");
           $("#game .date").text(nextGame.date);
