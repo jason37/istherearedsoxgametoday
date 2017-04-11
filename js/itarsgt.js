@@ -11,7 +11,7 @@ function ISODateString(d){
 }
 
 $(document).ready(function(){
-    var url='/data/redsox2016schedule.json';
+    var url='/data/redsox2017schedule.json';
 
     var today = new Date();
     var nextGame = null;
