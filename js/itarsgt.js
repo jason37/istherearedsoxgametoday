@@ -53,7 +53,7 @@ $(document).ready(function(){
             $("#game .tstart").text(todaysGame.time);
 
             $("#game abbr").attr('title', ISODateString(nextGameDate));
-            if (todaysGame.location == "Fenway Park") {
+            if (todaysGame.location.includes("Fenway")) {
                 $("body").addClass("home");
                 $("#yesno .homeaway").text("At home");
              }
