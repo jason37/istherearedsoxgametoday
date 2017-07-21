@@ -14,7 +14,7 @@
   Site: http://www.convertcsv.com/csv-to-json.htm
 
 /* SITE */
-  Last update: 2014/01/16
+  Last update: 2017-07-21
   Language: English
   Doctype: HTML5
-  IDE: Netbeans
+  IDE: PhpStorm
