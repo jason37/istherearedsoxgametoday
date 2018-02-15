@@ -11,11 +11,10 @@ function ISODateString(d){
 }
 
 $(document).ready(function(){
-    var url='/data/redsox2017schedule.json';
-
-    var today = new Date();
+    const today = new Date();
     var nextGame = null;
     var todaysGame = null;
+    var url = '/data/redsox' + today.getFullYear() + 'schedule.json';
 
     // Format date as MM/DD/YY
     var curr_date = today.getDate();
