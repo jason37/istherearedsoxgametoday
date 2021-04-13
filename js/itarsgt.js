@@ -14,7 +14,7 @@ $(document).ready(function(){
     const today = new Date();
     var nextGame = null;
     var todaysGame = null;
-    var url = '/data/redsox' + today.getFullYear() + 'schedule.json';
+    var url = 'data/redsox' + today.getFullYear() + 'schedule.json';
 
     // Format date as MM/DD/YY
     var curr_date = today.getDate();
@@ -36,7 +36,7 @@ $(document).ready(function(){
           //console.log("Today: " + today + " - Looking at next game: " + nextGameDate);          
           
           if (nextGame === null && isDateLaterThan(nextGameDate, today)) {
-            nextGame = game;            
+            nextGame = game;
           }
           if(today.getYear() == nextGameDate.getYear()
               && today.getMonth() == nextGameDate.getMonth()
